@@ -8,12 +8,12 @@
       <link href="/2023/03/07/%E3%80%90%E5%B0%84%E9%A2%91%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E3%80%91%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/"/>
       <url>/2023/03/07/%E3%80%90%E5%B0%84%E9%A2%91%E7%94%B5%E8%B7%AF%E8%AE%BE%E8%AE%A1%E3%80%91%E7%94%B5%E8%B7%AF%E5%9F%BA%E7%A1%80/</url>
       
-        <content type="html"><![CDATA[<h2 id="导纳电导电纳">导纳、电导、电纳</h2><h3 id="导纳admittance">导纳（admittance）</h3><p><strong>电导</strong>和<strong>电纳</strong>的统称。定义为阻抗（impedance）的倒数，符号Y，单位为西门子（S）。导纳是复数，实数部分（电导G）和虚数部分（电纳B）组成：<span class="math inline">\(Y=G+jB\)</span>。<br />用来描述交流电通过电路或系统时的困难程度。</p><h3 id="电导g">电导（G）</h3><p>描述负载电荷通过导体的流畅程度。电荷通过越容易，电导值越高。电导值既可用于交流电，也可用于直流电。</p><h3 id="电纳b">电纳（B）</h3><p>描述电子组件、电子电路的就绪状态，或者指当电压改变时系统释放的能量大小。用虚数表示电纳，单位为西门子。<br />电纳只用于描述交流电。当交流电通过一个包含电纳的导体时，可以释放或者产生能量，能量形式为磁场时，电纳为电感性，表示为<span class="math inline">\(-jB\)</span>；当能量形式为电场时，电纳为电容性，表示为<span class="math inline">\(+jB\)</span>。</p><h2 id="电阻r电抗电导电纳的换算">电阻R、电抗、电导、电纳的换算</h2><p>阻抗 <span class="math inline">\(Z=R+jX\)</span></p><p>导纳 <span class="math inline">\(Y=\frac{1}{Z}=\frac{1}{R+jX}=\frac{R}{R^2+X^2}+j\frac{-X}{R^2+X^2}\)</span></p><p>电导 <span class="math inline">\(G=\frac{R}{R^2+X^2}\)</span></p><p>电纳 <span class="math inline">\(B=\frac{-X}{R^2+X^2}\)</span></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="基本概念">基本概念</h1><h2 id="导纳电导电纳">导纳、电导、电纳</h2><h3 id="导纳admittance">导纳（admittance）</h3><p><strong>导纳</strong>是<strong>电导</strong>和<strong>电纳</strong>的统称。定义为阻抗（impedance）的倒数，符号Y，单位为西门子（S）。</p><p>导纳是复数，实数部分（电导G）和虚数部分（电纳B）组成：<span class="math inline">\(Y=G+jB\)</span>。</p><p>用来描述交流电通过电路或系统时的困难程度。</p><h3 id="电导g">电导（G）</h3><p>描述负载电荷通过导体的流畅程度。电荷通过越容易，电导值越高。电导值既可用于交流电，也可用于直流电。</p><h3 id="电纳b">电纳（B）</h3><p>描述电子组件、电子电路的就绪状态，或者指当电压改变时系统释放的能量大小。用虚数表示电纳，单位为西门子。<br />电纳只用于描述交流电。当交流电通过一个包含电纳的导体时，可以释放或者产生能量，能量形式为磁场时，电纳为电感性，表示为<span class="math inline">\(-jB\)</span>；当能量形式为电场时，电纳为电容性，表示为<span class="math inline">\(+jB\)</span>。</p><hr /><h2 id="电阻r电抗电导电纳的换算">电阻R、电抗、电导、电纳的换算</h2><p>阻抗 <span class="math inline">\(Z=R+jX\)</span></p><p>导纳 <span class="math inline">\(Y=\frac{1}{Z}=\frac{1}{R+jX}=\frac{R}{R^2+X^2}+j\frac{-X}{R^2+X^2}\)</span></p><p>电导 <span class="math inline">\(G=\frac{R}{R^2+X^2}\)</span></p><p>电纳 <span class="math inline">\(B=\frac{-X}{R^2+X^2}\)</span></p>]]></content>
       
       
       <categories>
           
-          <category> RFIC </category>
+          <category> Electronic Engineering </category>
           
       </categories>
       
